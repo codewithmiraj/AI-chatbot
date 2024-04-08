@@ -1,4 +1,4 @@
-## Buddy-AI-Studying-Assistant-Using-Python
+## AI assistant to help with studies 
 
 This project is an AI assistant that can help you with your studies
 
